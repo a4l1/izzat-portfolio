@@ -1,0 +1,18 @@
+
+body{
+  background-color: #EAEAEA;
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+button{
+  background-color: chartreuse;
+  box-shadow: 0 0 5px gray;
+  transition: 0.8s;
+}
+
+button:hover{
+  box-shadow: 0 0 12px gray;
+}

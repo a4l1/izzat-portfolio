@@ -1,0 +1,30 @@
+button{
+    background-color: chartreuse;
+    box-shadow: 0 0 5px gray;
+    transition: 0.8s;
+    padding: 10px 15px;
+  }
+
+  input{
+    outline: none;
+  }
+
+  .buy__button{
+    position: relative;
+    top: 175px;
+    left: 115px;
+    padding: 10px 15px;
+    
+  }
+  
+  button:hover{
+    box-shadow: 0 0 12px gray;
+  }
+
+
+  .form_button{
+    position: relative;
+    padding: 10px 15px;
+    left: 50px;
+
+  }

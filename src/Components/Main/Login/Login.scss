@@ -1,0 +1,38 @@
+input{
+    width: 15rem;
+    padding: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 8px grey;
+    margin: 20px auto;
+    border: none;
+}
+.button1{
+    margin-left:6rem;
+    font-size: 15px;
+    border: none;
+    box-shadow: 0 0 20px rgb(77, 73, 73);
+    text-align: center;
+    margin-top: 1rem;
+    border-radius: 10px;
+    background-color: chartreuse;
+    color: bisque;
+    padding: 10px 15px;
+}
+form{
+    border-color: blanchedalmond;
+}
+
+.box1{
+    height: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    justify-content: center;
+    background-color: white;
+    background-image: url(https://media.istockphoto.com/id/1269848874/vector/lock-protection-security-icon-editable-vector-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=e--6Ry-HI3AwuJOzCKikNLY33mWbc6fok6oNjJrwdoc=);
+}
